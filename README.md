@@ -1,8 +1,12 @@
 # 🍽️ Zomato Restaurant Reviews - Sentiment Analysis & Topic Modeling (Hyderabad, India)
 
 This project focuses on performing **sentiment analysis** and **topic modeling** on restaurant reviews from **Zomato** in **Hyderabad, India**. The objective is to extract actionable insights from customer feedback to understand how diners feel about restaurants and what topics or themes dominate their reviews.
+<img width="840" height="840" alt="download" src="https://github.com/user-attachments/assets/db12922f-78b8-47d2-81a0-27f4b0ad7b91" />
 
----
+
+
+
+
 
 ## 📚 Table of Contents
 
@@ -154,3 +158,6 @@ Feel free to open an issue or submit a pull request.
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+
+
+
